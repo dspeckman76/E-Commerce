@@ -376,6 +376,11 @@ filter: grayscale(1) invert(1);
     color: #fff; 
 }
 
+.footer__copyright {
+    padding-top: 24px;
+    padding-bottom: 24px;
+}
+
 .footer__list {
     margin-bottom: 20px 0 24px 0;
 }
